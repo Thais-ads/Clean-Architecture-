@@ -12,3 +12,4 @@ C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Domain\obj\D
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Domain\obj\Debug\net8.0\Clean Architecture.Domain.pdb
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Domain\obj\Debug\net8.0\Clean Architecture.Domain.genruntimeconfig.cache
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Domain\obj\Debug\net8.0\ref\Clean Architecture.Domain.dll
+C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Domain\obj\Debug\net8.0\Clean Architecture.Domain.sourcelink.json

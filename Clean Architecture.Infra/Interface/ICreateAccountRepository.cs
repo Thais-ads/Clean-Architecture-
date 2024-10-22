@@ -10,8 +10,6 @@ namespace Clean_Architecture.Infra.Interface
 {
     public interface ICreateAccountRepository : IRepository<CreatePersonCNPJ>
     {
-        Task<CreatePersonCNPJ> GetPersonByUUID(string uuid);
-        Task<Int64?> GetUserId(string uuid);
-
+     
     }
 }

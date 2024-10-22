@@ -17,3 +17,4 @@ C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Application\
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Application\obj\Debug\net8.0\Clean Architecture.Application.pdb
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Application\obj\Debug\net8.0\Clean Architecture.Application.genruntimeconfig.cache
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Application\obj\Debug\net8.0\ref\Clean Architecture.Application.dll
+C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Application\obj\Debug\net8.0\Clean Architecture.Application.sourcelink.json

@@ -18,12 +18,10 @@ namespace Clean_Architecture.Application.DI
         public static void Configure(IServiceCollection services, string connectionString)
         {
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
-            services.AddHttpClient();
 
+            services.AddScoped<IAccountPjService, AccountPjService>();
 
-           services.AddScoped<IAccountPjService, AccountPjService>();
-
-
+            services.AddHttpClient<AuthService>();
             services.AddScoped<ICreateAccountRepository, CreateAccountRepository>();
            
         }

@@ -151,3 +151,5 @@ C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture\obj\Debug\ne
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture\obj\Debug\net8.0\Clean Architecture.pdb
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture\obj\Debug\net8.0\Clean Architecture.genruntimeconfig.cache
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture\obj\Debug\net8.0\ref\Clean Architecture.dll
+C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture\obj\Debug\net8.0\Clean Architecture.sourcelink.json
+C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

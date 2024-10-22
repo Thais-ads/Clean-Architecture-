@@ -15,3 +15,4 @@ C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Infra\obj\De
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Infra\bin\Debug\net8.0\Clean Architecture.Domain.dll
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Infra\bin\Debug\net8.0\Clean Architecture.Domain.pdb
 C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Infra\obj\Debug\net8.0\Clean Ar.5A7E7428.Up2Date
+C:\Users\thais\Desktop\Estudy\Clean Architecture\Clean Architecture.Infra\obj\Debug\net8.0\Clean Architecture.Infra.sourcelink.json

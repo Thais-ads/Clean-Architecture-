@@ -12,16 +12,7 @@ namespace Clean_Architecture.Infra.Repositories
             {
             }
 
-            public async Task<CreatePersonCNPJ> GetPersonByUUID(string uuid)
-            {
-                return await DbSet.AsNoTracking().Where(x => x.UUID == uuid).FirstOrDefaultAsync();
-            }
-
-
-            public async Task<Int64?> GetUserId(string uuid)
-            {
-                return await DbSet.AsNoTracking().Where(x => x.UUID == uuid).Select(x => x.UserID).FirstOrDefaultAsync();
-            }
+           
 
 
      }
